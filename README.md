@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sriman Subash S R
 🔭 I’m currently working on Python projects.  <br>👯 I’m looking to collaborate on Python Projects.  <br>🤝 I’m looking for help with Machine learning.  <br>🌱 I’m currently learning Power BI and diving deeper into machine learning.  <br>💬 Ask me about Python programming or data visualization.  <br>⚡ Fun fact is I have OCD when it comes to code neatness—every line has to be perfect! 😄
 
 
